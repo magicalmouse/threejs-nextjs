@@ -1,0 +1,39 @@
+__  __  __
+\ \ \ \ \/
+ \ \/\ \
+  \/  \/
+
+_______________________________________________________________________________
+
+DESIGNER
+
+Yaroslav Zinchenko
+web development
+
+Dev tools:
+Visual Studio
+Visual Studio Code
+Android Studio
+InteliJ
+
+github.com/magicalmouse
+
+_______________________________________________________________________________
+
+TECHNOLOGY
+
+React
+Next.js
+Angular
+Vue.js
+Node.js
+Express
+Three.js
+Framer Motion
+
+_______________________________________________________________________________
+
+FONTS
+
+Gotham
+Hiragino Kaku Gothic

@@ -16,7 +16,7 @@ export const navLinks = [
 export const socialLinks = [
   {
     label: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/yaroslav-zinchenko-3b5b0a292/',
+    url: 'https://www.linkedin.com/in/james-johnson-409a8b2a2/',
     icon: 'linkedin',
   },
   {

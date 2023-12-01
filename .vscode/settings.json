@@ -11,5 +11,6 @@
     "**/node_modules": true,
     "**/build": true
   },
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.inlineSuggest.showToolbar": "onHover"
 }
